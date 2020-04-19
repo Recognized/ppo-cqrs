@@ -1,2 +1,1 @@
-rootProject.name = "kotlin-template"
-
+rootProject.name = "ppo-cqrs"
